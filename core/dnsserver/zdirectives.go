@@ -52,6 +52,7 @@ var Directives = []string{
 	"k8s_external",
 	"kubernetes",
 	"file",
+	"postgresql",
 	"auto",
 	"secondary",
 	"etcd",
